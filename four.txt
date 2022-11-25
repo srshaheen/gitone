@@ -1,4 +1,6 @@
 four
 char
 chokka
+hoi
+hoi
 
